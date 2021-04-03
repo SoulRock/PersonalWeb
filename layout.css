@@ -43,6 +43,7 @@ li{
     background: linear-gradient(to right, #043565, #5158bb 50%, #f26df9);
     background-size: 200%;
     transition: 0.5s ease-out;
+    background-clip: border-box;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
